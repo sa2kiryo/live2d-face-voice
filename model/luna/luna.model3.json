@@ -1,0 +1,51 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "luna.moc3",
+		"Textures": [
+			"luna.8192/texture_00.png",
+			"luna.8192/texture_01.png"
+		],
+		"Physics": "luna.physics3.json",
+		"DisplayInfo": "luna.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "angry",
+				"File": "expression/angry.exp3.json"
+			},
+			{
+				"Name": "cheek",
+				"File": "expression/cheek.exp3.json"
+			},
+			{
+				"Name": "heart",
+				"File": "expression/heart.exp3.json"
+			},
+			{
+				"Name": "sad",
+				"File": "expression/sad.exp3.json"
+			},
+			{
+				"Name": "smile",
+				"File": "expression/smile.exp3.json"
+			},
+			{
+				"Name": "surprise",
+				"File": "expression/surprise.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

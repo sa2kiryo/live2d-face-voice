@@ -1,0 +1,18 @@
+# Node
+node_modules/
+
+# Server runtime artifacts
+*.log
+
+# Editor / OS
+.DS_Store
+Thumbs.db
+
+# Claude Code
+.claude/
+
+# Local vendor downloads (the README explains how to obtain these)
+vendor/live2dcubismcore.min.js
+vendor/pixi.min.js
+vendor/pixi-live2d-display-cubism4.min.js
+vendor/mp4-muxer.mjs
