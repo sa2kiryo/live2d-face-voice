@@ -9,6 +9,12 @@
 - Whisper による文字起こし → Claude による感情・ジェスチャ解析 → タイミング指定での自動演出
 - ステージの MP4 録画
 
+## 解説動画
+
+[![解説動画](https://img.youtube.com/vi/Q_n2IP2f6KI/0.jpg)](https://youtu.be/Q_n2IP2f6KI)
+
+https://youtu.be/Q_n2IP2f6KI
+
 ## 必要なもの
 
 - Node.js 18 以上（静的サーバーと解析 API の起動に使用）
